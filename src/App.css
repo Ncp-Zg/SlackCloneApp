@@ -1,0 +1,21 @@
+
+body {
+  --slack-color: #3f0f40;
+  overflow: hidden;
+}
+
+.app_body {
+  position: fixed;
+  width: 100%;
+  margin-top: 43.5px;
+  display: flex;
+  height: 100vh;
+}
+.header {
+  padding-top: 3px;
+  padding-bottom: 2px;
+  position: fixed;
+  width: 100%;
+  margin-top: 12px;
+}
+
